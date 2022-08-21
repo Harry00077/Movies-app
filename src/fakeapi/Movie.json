@@ -1,0 +1,96 @@
+[
+    {
+      "_id": "1",
+      "title": "Terminator",
+      "genre": {
+        "_id": "0",
+        "name": "Action"
+      },
+      "inStock": 6,
+      "dailyRentalRate": 2.5,
+      "publishDate": "2018-01-03T19:04:28.809Z",
+      "liked": true
+    },
+  
+    {
+      "_id": "2",
+      "title": "Die Hard",
+      "genre": {
+        "_id": "0",
+        "name": "Action"
+      },
+      "inStock": 5,
+      "dailyRentalRate": 2.5
+    },
+    {
+      "_id": "3",
+      "title": "Get Out",
+      "genre": {
+        "_id": "5",
+        "name": "Thriller"
+      },
+      "inStock": 8,
+      "dailyRentalRate": 3.5
+    },
+    {
+      "_id": "4",
+      "title": "Trip to Italy",
+      "genre": {
+        "_id": "4",
+        "name": "Comedy"
+      },
+      "inStock": 7,
+      "dailyRentalRate": 3.5
+    },
+    {
+      "_id": "5",
+      "title": "Airplane",
+      "genre": {
+        "_id": "4",
+        "name": "Comedy"
+      },
+      "inStock": 7,
+      "dailyRentalRate": 3.5
+    },
+    {
+      "_id": "6",
+      "title": "Wedding Crashers",
+      "genre": {
+        "_id": "4",
+        "name": "Comedy"
+      },
+      "inStock": 7,
+      "dailyRentalRate": 3.5
+    },
+    {
+      "_id": "7",
+      "title": "Gone Girl",
+      "genre": {
+        "_id": "5",
+        "name": "Thriller"
+      },
+      "inStock": 7,
+      "dailyRentalRate": 4.5
+    },
+    {
+      "_id": "8",
+      "title": "The Sixth Sense",
+      "genre": {
+        "_id": "5",
+        "name": "Thriller"
+      },
+      "inStock": 4,
+      "dailyRentalRate": 3.5
+    },
+    {
+      "_id": "9",
+      "title": "The Avengers",
+      "genre": {
+        "_id": "0",
+        "name": "Action"
+      },
+      "inStock": 7,
+      "dailyRentalRate": 3.5
+    }
+  ]
+  
